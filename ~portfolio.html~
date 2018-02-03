@@ -22,5 +22,21 @@
     </ul>
   </div>
 </nav>
-  </body>
+<div class="row">
+    <div class="col-sm-4" style="background-color:blue;">Page 1</div>
+    <div class="col-sm-4" style="background-color:orange;">Page 2</div>
+    <div class="col-sm-4" style="background-color:blue;">Page 3</div>
+  </div>
+</div>
+  <div class="row">
+    <div class="col-xs-8" style="background-color:purple;">.Page 1</div>
+    <div class="col-xs-4" style="background-color:gold;">.Page 2</div>
+  </div>
+</div>
+<div class="row">
+    <div class="col-m-6" style="background-color:orange;">Page 1</div>
+    <div class="col-m-6" style="background-color:green;">Page 2</div>
+  </div>
+</div>
+ </body>
   </html>
